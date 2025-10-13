@@ -14,3 +14,4 @@ E-books of public-domain content, which I have typeset.
 ## Technology
 
 * [Amstrad Notepad NC100 I/O Specification](NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad
+* [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel
