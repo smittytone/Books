@@ -21,6 +21,13 @@ E-books of public-domain content&sup1;, which I have typeset.
 * [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling †
 * [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel †
 
-1 Items marked `†` are not public domain but are copyright material. However, these relate to historical products
-that are no longer in production and/or were produced by companies that are no longer extant. Copyright holders are
-invited to contact me (via the Issues system) if they object to the inclusion of the material here.
+* [The Chips are Down](The%20Chips%20are%20Down%20-%20Hines.pdf) by Colin Hines †
+* [NEB: A Case for Euthanasia](NEB%20A%20Case%20for%20Euthenasia%20-%20Grylls,%20Redwood.pdf) by Michael Grylls and John Redwood †
+
+## Footnotes
+
+1 — Items marked `†` are not public domain but are copyright material. However, these relate to historical products
+that are no longer in production and/or were produced by companies that are no longer extant; were produced by
+organizations that are no longer in existence; or are of a deeply historical nature that they have no contemporary
+relevance. Copyright holders are invited to contact me (via the Issues system) if they object to the inclusion of
+the material here.
