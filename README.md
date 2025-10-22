@@ -1,6 +1,6 @@
 # Books
 
-E-books of public-domain content, which I have typeset.
+E-books of public-domain content&sup1;, which I have typeset.
 
 ## Science Fiction
 
@@ -17,6 +17,10 @@ E-books of public-domain content, which I have typeset.
 
 ## Technology
 
-* [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad
-* [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling
-* [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel
+* [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad †
+* [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling †
+* [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel †
+
+1 Items marked `†` are not public domain but are copyright material. However, these relate to historical products
+that are no longer in production and/or were produced by companies that are no longer extant. Copyright holders are
+invited to contact me (via the Issues system) if they object to the inclusion of the material here.
