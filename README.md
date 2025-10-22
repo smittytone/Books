@@ -11,6 +11,10 @@ E-books of public-domain content, which I have typeset.
 
 * [The Stoneground Ghost Tales](The%20Stoneground%20Ghost%20Tales%20-%20Swain.pdf) by E.G. Swain
 
+## Detection
+
+* [A Study in Scarlet](A%20Study%20in%20Scarlet%20-%20Conan%20Doyle.pdf) by Sir Arthur Conan Doyle
+
 ## Technology
 
 * [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad
