@@ -18,11 +18,12 @@ E-books of public-domain content&sup1;, which I have typeset.
 ## Technology
 
 * [Amstrad Notepad NC100 I/O Specification](Amstrad%20NC100%20IO%20Specification.pdf) by Cliff Lawson and Amstrad †
-* [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling †
+* [Amstrad Notepad NC100 Surgical Guide](Amstrad%20NC100%20Surgical%20Guide.pdf) by Hans-Jürgen Böhling † **Updated**
 * [Thorn EMI Liberator User Manual](Thorn%20EMI%20LiberatorvUser%20Manual.pdf) by Thorn EMI Dynatel †
-&nbsp;
-* [The Chips are Down](The%20Chips%20are%20Down%20-%20Hines.pdf) by Colin Hines †
-* [NEB: A Case for Euthanasia](NEB%20A%20Case%20for%20Euthenasia%20-%20Grylls,%20Redwood.pdf) by Michael Grylls and John Redwood †
+
+
+- [The Chips are Down](The%20Chips%20are%20Down%20-%20Hines.pdf) by Colin Hines †
+- [NEB: A Case for Euthanasia](NEB%20A%20Case%20for%20Euthenasia%20-%20Grylls,%20Redwood.pdf) by Michael Grylls and John Redwood †
 
 ## Footnotes
 
