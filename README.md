@@ -15,3 +15,7 @@ E-books of public-domain content, which I have typeset, and other books that are
 ## Detection
 
 * [A Study in Scarlet](A%20Study%20in%20Scarlet%20-%20Conan%20Doyle.pdf) by Sir Arthur Conan Doyle
+
+## Adventure
+
+* [The Man Who Would be King](The%20Man%20Who%20Would%20Be%20King%20-%20Kipling.pdf) by Rudyard Kipling
