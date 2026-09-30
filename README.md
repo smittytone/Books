@@ -10,6 +10,7 @@ E-books of public-domain content, which I have typeset, and other books that are
 ## Horror
 
 * [Four Weird Tales](Four%20Weird%20Tales%20-%20Blackwood.pdf) by Algernon Blackwood
+* [The Complete John Silence](The%20Complete%20John%20Silence%20-%20Blackwood.pdf) by Algernon Blackwood
 * [The Stoneground Ghost Tales](The%20Stoneground%20Ghost%20Tales%20-%20Swain.pdf) by E.G. Swain
 
 ## Detection
